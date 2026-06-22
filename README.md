@@ -38,7 +38,7 @@ EcoVision is an AI-powered smart city solution designed to detect potholes, garb
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Pothole Detection
+### Pothole And Garbage Detection
 ![Pothole Detection](screenshots/pothole_detection.png)
 
 ### Email Alert
