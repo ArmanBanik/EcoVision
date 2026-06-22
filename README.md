@@ -58,4 +58,4 @@ EcoVision is an AI-powered smart city solution designed to detect potholes, garb
 
 Arman Banik
 B.Tech Computer Science & Engineering
-Royal Global University, Guwahati
+
