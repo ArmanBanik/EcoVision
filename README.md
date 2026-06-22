@@ -43,6 +43,12 @@ EcoVision is an AI-powered smart city solution designed to detect potholes, garb
 
 ### Email Alert
 ![Email Alert](screenshots/email_alert.png)
+
+## System Architecture
+
+The following architecture illustrates the complete workflow of the EcoVision Smart Urban Issue Detection System.
+
+![EcoVision Architecture](screenshots/ecovision_architecture.png)
    
 
 ### Future Scope
